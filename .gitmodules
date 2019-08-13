@@ -16,3 +16,6 @@
 [submodule "form-to-slack"]
 	path = form-to-slack
 	url = https://github.com/tanabee/form-to-slack.git
+[submodule "gmail-to-spreadsheet"]
+	path = gmail-to-spreadsheet
+	url = https://github.com/tanabee/gmail-to-spreadsheet.git
