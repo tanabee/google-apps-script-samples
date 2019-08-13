@@ -22,3 +22,6 @@
 [submodule "spreadsheet-to-calendar"]
 	path = spreadsheet-to-calendar
 	url = https://github.com/tanabee/spreadsheet-to-calendar.git
+[submodule "google-translation-api"]
+	path = google-translation-api
+	url = https://github.com/tanabee/google-translation-api.git
