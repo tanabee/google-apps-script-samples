@@ -1,6 +1,6 @@
 ## About
 
-Google Apps Script のサンプル集
+Google Apps Script samples
 
 ## Repositories
 
