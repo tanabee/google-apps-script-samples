@@ -10,3 +10,6 @@
 [submodule "okr-tree"]
 	path = okr-tree
 	url = https://github.com/tanabee/okr-tree.git
+[submodule "spreadsheet-to-json"]
+	path = spreadsheet-to-json
+	url = https://github.com/tanabee/spreadsheet-to-json.git
