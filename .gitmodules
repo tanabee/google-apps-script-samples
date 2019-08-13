@@ -13,3 +13,6 @@
 [submodule "spreadsheet-to-json"]
 	path = spreadsheet-to-json
 	url = https://github.com/tanabee/spreadsheet-to-json.git
+[submodule "form-to-slack"]
+	path = form-to-slack
+	url = https://github.com/tanabee/form-to-slack.git
