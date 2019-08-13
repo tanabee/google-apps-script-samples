@@ -7,3 +7,6 @@
 [submodule "slack-channel-exporter"]
 	path = slack-channel-exporter
 	url = https://github.com/tanabee/slack-channel-exporter.git
+[submodule "okr-tree"]
+	path = okr-tree
+	url = https://github.com/tanabee/okr-tree.git
