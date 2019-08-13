@@ -4,3 +4,6 @@
 [submodule "zendesk-to-spreadsheet"]
 	path = zendesk-to-spreadsheet
 	url = https://github.com/tanabee/zendesk-to-spreadsheet.git
+[submodule "slack-channel-exporter"]
+	path = slack-channel-exporter
+	url = https://github.com/tanabee/slack-channel-exporter.git
