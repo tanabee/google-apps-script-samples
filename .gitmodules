@@ -19,3 +19,6 @@
 [submodule "gmail-to-spreadsheet"]
 	path = gmail-to-spreadsheet
 	url = https://github.com/tanabee/gmail-to-spreadsheet.git
+[submodule "spreadsheet-to-calendar"]
+	path = spreadsheet-to-calendar
+	url = https://github.com/tanabee/spreadsheet-to-calendar.git
