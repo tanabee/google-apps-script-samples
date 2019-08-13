@@ -1,3 +1,6 @@
 [submodule "chown-drive-folder"]
 	path = chown-drive-folder
 	url = https://github.com/tanabee/chown-drive-folder.git
+[submodule "zendesk-to-spreadsheet"]
+	path = zendesk-to-spreadsheet
+	url = https://github.com/tanabee/zendesk-to-spreadsheet.git
